@@ -22,6 +22,231 @@
 
 - ⚡ Fun fact **I automate what others calculate 😄**
 
+
+<div align="center">
+
+# ⚡ KANHA BISWAL
+
+### Software Engineer · AI Engineer · Backend Systems
+
+**Building AI-powered products, scalable backend systems & real-time platforms.**
+
+<br/>
+
+<a href="https://github.com/biswalkanha07">
+<img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🧠 ABOUT
+
+```text
+Software Engineer focused on building production-grade systems.
+
+→ Backend architecture
+→ AI / LLM integrations
+→ RAG & AI Agents
+→ Multi-tenant SaaS
+→ Real-time communication
+→ Cloud-ready applications
+
+Currently building systems where software engineering
+meets artificial intelligence.
+```
+
+---
+
+## 🚀 FEATURED ENGINEERING
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 TheSkillPro
+
+AI-powered multi-tenant **Learning Management System**.
+
+`Java` `Spring Boot` `PostgreSQL`
+`React` `AWS` `LLM` `RAG`
+
+</td>
+
+<td width="50%">
+
+### 🎥 SahajMeet
+
+Real-time **meeting & collaboration platform**.
+
+`React` `Node.js` `LiveKit`
+`WebRTC` `Socket.IO` `AI`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 Husqy AI
+
+AI / RAG-powered **SaaS platform**.
+
+`LLM` `RAG` `AI`
+`Python` `React`
+
+</td>
+
+<td width="50%">
+
+### 🧬 NutriSathi
+
+**Multi-agent AI assistant** built around intelligent agent workflows.
+
+`Python` `Flask` `React`
+`AI Agents` `LLM`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💬 Sahaj Connect
+
+Enterprise **communication & collaboration platform**.
+
+`Spring Boot` `React` `Tauri`
+`PostgreSQL` `STOMP` `WebRTC`
+
+</td>
+
+<td width="50%">
+
+### ⚙️ What I Build
+
+Production systems combining:
+
+`Backend` · `AI` · `SaaS`
+`Real-Time` · `Cloud`
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ ENGINEERING STACK
+
+<div align="center">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,flask" />
+
+<br/><br/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
+
+<br/><br/>
+
+### Database · Cloud · Tools
+
+<img src="https://skillicons.dev/icons?i=postgresql,redis,aws,docker,git,github" />
+
+<br/><br/>
+
+### AI & Systems
+
+`LLM`   `RAG`   `AI Agents`   `Multi-Agent Systems`
+
+`WebRTC`   `Real-Time Systems`   `REST APIs`   `SaaS`
+
+</div>
+
+---
+
+## 📊 GITHUB ACTIVITY
+
+<div align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=biswalkanha07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswalkanha07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br/><br/>
+
+<img width="70%"
+src="https://streak-stats.demolab.com/?user=biswalkanha07&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"
+width="90%"/>
+
+</div>
+
+---
+
+## 🔥 ENGINEERING MINDSET
+
+<div align="center">
+
+```text
+BUILD
+  ↓
+SHIP
+  ↓
+LEARN
+  ↓
+IMPROVE
+  ↓
+REPEAT
+```
+
+**Turning ideas into working software.**
+
+</div>
+
+---
+
+## 🤝 CONNECT
+
+<div align="center">
+
+<a href="https://github.com/biswalkanha07">
+<img src="https://img.shields.io/badge/GitHub-biswalkanha07-111827?style=for-the-badge&logo=github"/>
+</a>
+
+ 
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<br/><br/>
+
+### ⚡ BUILD. SHIP. IMPROVE.
+
+</div>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />

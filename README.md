@@ -21,6 +21,13 @@
 - 📫 How to reach me **kanhabiswal1708@gmail.com**
 
 - ⚡ Fun fact **I automate what others calculate 😄**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="biswalkanha07's GitHub profile" src="dark_mode.svg" />
+</picture>
+
   <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
